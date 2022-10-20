@@ -19,9 +19,10 @@
 [x]5. Use the error messages to correct the CSS. 
 [x]6. Repeat steps 3-5 until your readout states "Congratulations! No Error Found.".
 
-Remember to check your progress in `index.html` in your browser and Add, Commit and Push your changes to GitHub regularly
+[x]Remember to check your progress in `index.html` in your browser and Add, Commit and Push your changes to GitHub regularly
 
 ## Finished
+
 
 
 # CSS Fundamentals Lab
@@ -34,38 +35,35 @@ Remember to check your progress in `index.html` in your browser and Add, Commit 
 
 ## Getting Started
 
-Open 'CSS_Debrief/css-fundamentals'
+[x] Open 'CSS_Debrief/css-fundamentals'
 
 ## Link an External CSS File
 
-Link the 'style.css' file to the 'index.html' file. Refer to the 'completed_example' to complete the below tasks
+[x] Link the 'style.css' file to the 'index.html' file. 
+[x] Refer to the 'completed_example' to complete the below tasks
 
 ### Deliverables
 
-- **Update the header**: the text is a little wonky being aligned on the left
-  like that. Provide a property that aligns it in the center instead.
+[x] **Update the header**: the text is a little wonky being aligned on the left like that. Provide a property that aligns it in the center instead.
 
-- **Center our image**: We only have one image on the page and we would like it
+[x]- **Center our image**: We only have one image on the page and we would like it
   centered!
 
-- **Jazz up our navigation links**: Let's center all of our nav links as well.
-  Give all of the `<a>` tags within our navbar padding of 10px on their left and
-  right sides. In addition, change their background color to something of your
-  choosing. We chose grey!
+[x]- **Jazz up our navigation links**: Let's center all of our nav links as well.
+  [x]Give all of the `<a>` tags within our navbar padding of 10px on their left and right sides. 
+  [x]In addition, change their background color to something of your choosing. We chose grey!
 
-- **Our image caption needs work**: Let's shrink that font size down and make
-  sure it is centered.
+[x]- **Our image caption needs work**: Let's shrink that font size down and make sure it is centered. 
+<!-- font-size: 50%; to make it shrink ? -->
 
-- **Update the text block**: Wouldn't it look nicer if our text was centered as
+[x]- **Update the text block**: Wouldn't it look nicer if our text was centered as
   well? Our image is about 900px wide, so let's give all our `<p>`s within
-  `#featured-property` a hard width of 800px and center the text in there. Be
-  sure to keep a little vertical space around the `<p>`s.
+  `#featured-property` a hard width of 800px and center the text in there. Besure to keep a little vertical space around the `<p>`s.
+      
 
-- **Make our `#details` section horizontal**: The details section could go
-  nicely as a footer to the page, instead of a vertical list. To do this, make
-  each of the `<div>`s `float` to the `left`.
+[x]- **Make our `#details` section horizontal**: The details section could go nicely as a footer to the page, instead of a vertical list. To do this, make each of the `<div>`s `float` to the `left`.
 
-- **As a finishing touch**: Let's clean up the `<div>`s at the bottom of the
+[x]- **As a finishing touch**: Let's clean up the `<div>`s at the bottom of the
   page. All of them should have the same background color, centered text, and
   occupy 25% of the `width` of the bottom row (since we have 4 divs).
 
