@@ -64,7 +64,7 @@
 [x]- **Make our `#details` section horizontal**: The details section could go nicely as a footer to the page, instead of a vertical list. To do this, make each of the `<div>`s `float` to the `left`.
 
 [x]- **As a finishing touch**: Let's clean up the `<div>`s at the bottom of the
-  page. All of them should have the same background color, centered text, and
+  page. All of them should have the same background color, centered text, and also
   occupy 25% of the `width` of the bottom row (since we have 4 divs).
 
 ## Finished
