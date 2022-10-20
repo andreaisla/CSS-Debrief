@@ -110,7 +110,7 @@ names make for semantic code. So let's give the outermost div the id red.
 <div id="red">...</div>
 ```
 
-To give that id some CSS attributes we'll go into `main.css`, select the id, and
+To give that id some CSS attributes we will go into `main.css`, select the id, and
 mark its color as red.
 
 ```css
