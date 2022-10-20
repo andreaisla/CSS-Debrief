@@ -51,7 +51,7 @@
 
 [x]- **Jazz up our navigation links**: Let's center all of our nav links as well.
   [x]Give all of the `<a>` tags within our navbar padding of 10px on their left and right sides. 
-  [x]In addition, change their background color to something of your choosing. We chose grey!
+  [x]In addition, change their background color to something of your choosing. We chose color grey!
 
 [x]- **Our image caption needs work**: Let's shrink that font size down and make sure it is centered. 
 <!-- font-size: 50%; to make it shrink ? -->
