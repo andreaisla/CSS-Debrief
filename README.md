@@ -77,7 +77,7 @@
 
 - Review HTML basics
 - Review CSS basics
-- Specify hexadecimal color values with CSS
+- Specify hexadecimal color values using CSS
 
 
 ## Getting Started
