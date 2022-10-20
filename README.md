@@ -53,7 +53,7 @@
   [x]Give all of the `<a>` tags within our navbar padding of 10px on their left and right sides. 
   [x]In addition, change their background color to something of your choosing. We chose the color grey!
 
-[x]- **Our image caption needs work**: Let's shrink that font size down and make sure it is centered. 
+[x]- **Our image caption needs work**: Let's shrink that font size down and make sure that it is centered. 
 <!-- font-size: 50%; to make it shrink ? -->
 
 [x]- **Update the text block**: Wouldn't it look nicer if our text was centered as
