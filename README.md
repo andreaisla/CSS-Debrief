@@ -50,7 +50,7 @@
   centered!
 
 [x]- **Jazz up our navigation links**: Let's center all of our nav links as well.
-  [x]Give all of the `<a>` tags within our navbar padding of 10px on their left and right sides. 
+  [x]Give all of the `<a>` tags within our navbar padding of 10px on their left and ricdght sides. 
   [x]In addition, change their background color to something of your choosing. We chose the color grey!
 
 [x]- **Our image caption needs work**: Let's shrink that font size down and make sure that it is centered. 
@@ -96,15 +96,16 @@ Good job!
 
 ### Coloring the Rainbow
 
-To get ROYGBIV onto our rainbow we'll need seven hex colors. Red: `#f00`;
-Orange: `#ffa500`; Yellow: `#ff0`; Green: `#00bc3f`; Blue: `#06f`; Indigo:
+[x] To get ROYGBIV onto our rainbow we'll need seven hex colors. 
+Red: `#f00`; Orange: `#ffa500`; Yellow: `#ff0`; Green: `#00bc3f`; Blue: `#06f`; Indigo:
 `#8a2be2`; Violet: `#d300c9`
 
-All we have to do next is select each div individually and apply each of those
-colors. That is a perfect use for ids since they're meant to style one specific
-element only. We need to add an id for each div so a logical name for each div
-would be the color that they have to be. It could be something random, but good
-names make for semantic code. So let's give the outermost div the id red.
+[x] All we have to do next is select each div individually and apply each of those colors. 
+
+That is a perfect use for ids since they're meant to style one specific
+element only. 
+[x] We need to add an id for each div so a logical name for each div
+would be the color that they have to be. It could be something random, but good names make for semantic code. So let's give the outermost div the id red.
 
 ```html
 <div id="red">...</div>
